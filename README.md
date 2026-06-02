@@ -37,8 +37,8 @@ I'm a passionate Python developer focused on building efficient, scalable soluti
 
 ```
 Languages           → Python 3.x
-ML/AI              → TensorFlow, PyTorch, Scikit-Learn, Keras
-Data Science       → Pandas, NumPy, Matplotlib, Seaborn, Plotly
+ML/AI               → TensorFlow, PyTorch, Scikit-Learn, Keras
+Data Science        → Pandas, NumPy, Matplotlib, Seaborn, Plotly
 Tools & Environment → Jupyter Notebook, Git, VS Code, Linux/WSL
 ```
 
