@@ -51,4 +51,4 @@ Env        →  Jupyter Notebook, Git, VS Code
 
 Always happy to connect with other learners, collaborate on beginner-friendly projects, or just talk about Python and ML.
 
-**[LinkedIn](https://linkedin.com/in/YOUR_HANDLE)**. **[GitHub](https://github.com/CoderAalok)**. **[LeetCode](https://leetcode.com/u/yadavaalok/)
+**[LinkedIn](https://linkedin.com/in/YOUR_HANDLE)**.  **[GitHub](https://github.com/CoderAalok)**.  **[LeetCode](https://leetcode.com/u/yadavaalok/)**
