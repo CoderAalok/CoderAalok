@@ -1,45 +1,36 @@
-# 👋 Hi, I'm Aalok | Python Developer & Problem Solver
+# Hi there!, I'm Aalok 👋
 
-<div align="center">
-
-**Crafting elegant solutions through clean code, algorithms, and machine learning**
-
-[🔗 GitHub](https://github.com/CoderAalok) • [📂 Repositories](https://github.com/CoderAalok?tab=repositories) • [⭐ Starred](https://github.com/CoderAalok?tab=stars)
-
-</div>
+I'm learning Python, algorithms, and machine learning — building projects to understand things deeply, not just follow tutorials.
 
 ---
 
-## 🎯 About Me
+## 🧠 What I'm learning
 
-I'm a passionate Python developer focused on building efficient, scalable solutions through **algorithm design**, **machine learning**, and **data science**. I believe that great code isn't just functional—it's elegant, well-documented, and solves real problems.
-
-### Current Focus
-- 🧩 **Algorithm Design** — Mastering data structures and optimization techniques
-- 🤖 **Machine Learning** — Building intelligent systems with TensorFlow & PyTorch  
-- 📊 **Data Science** — Extracting insights with Python scientific stack
-- 💻 **Clean Code** — Writing maintainable, production-ready Python applications
+- **Algorithms & data structures** — solving problems pattern by pattern
+- **Machine learning** — from linear regression to neural networks
+- **Data science** — making sense of data with Pandas, NumPy, and visualization tools
+- **Clean Python** — writing code I'd actually want to read later
 
 ---
 
-## 🚀 Featured Projects
+## 📁 My repositories
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| [**Problem_Solving_In_Python**](https://github.com/CoderAalok/Problem_Solving_In_Python) | Pattern-based algorithmic solutions with detailed explanations. Master problem-solving techniques through comprehensive examples. | Python, Algorithms |
-| [**TensorTonic-Solutions**](https://github.com/CoderAalok/TensorTonic-Solutions) | Deep learning implementations exploring neural networks, model architectures, and real-world AI applications. | TensorFlow, PyTorch, DL |
-| [**Python_Libraries**](https://github.com/CoderAalok/Python_Libraries) | Hands-on exploration of data science tools: Pandas, NumPy, Matplotlib, Seaborn through interactive Jupyter notebooks. | Jupyter, Pandas, NumPy |
-| [**Code_In_Python**](https://github.com/CoderAalok/Code_In_Python) | Essential Python utilities, reusable functions, and best practices for every developer. | Python, Design Patterns |
+| Repo | What it is |
+|------|------------|
+| [**Problem_Solving_In_Python**](https://github.com/CoderAalok/Problem_Solving_In_Python) | My solutions to algorithmic problems — organized by pattern, with explanations. |
+| [**TensorTonic-Solutions**](https://github.com/CoderAalok/TensorTonic-Solutions) | Experiments with deep learning: CNNs, RNNs, and applied ML models. |
+| [**Python_Libraries**](https://github.com/CoderAalok/Python_Libraries) | Notebooks exploring Pandas, NumPy, Matplotlib, and Seaborn as I learn them. |
+| [**Code_In_Python**](https://github.com/CoderAalok/Code_In_Python) | General Python practice — utilities, patterns, and exercises. |
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tools I'm working with
 
 ```
-Languages           → Python 3.x
-ML/AI               → TensorFlow, PyTorch, Scikit-Learn, Keras
-Data Science        → Pandas, NumPy, Matplotlib, Seaborn, Plotly
-Tools & Environment → Jupyter Notebook, Git, VS Code, Linux/WSL
+Language   →  Python 3.x
+ML / AI    →  TensorFlow, PyTorch, Scikit-Learn
+Data       →  Pandas, NumPy, Matplotlib, Seaborn
+Env        →  Jupyter Notebook, Git, VS Code
 ```
 
 ---
@@ -50,35 +41,14 @@ Tools & Environment → Jupyter Notebook, Git, VS Code, Linux/WSL
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoderAalok&show_icons=true&theme=dark&hide_border=true&count_private=true&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderAalok&layout=compact&theme=dark&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderAalok&layout=compact&theme=dark&hide_border=true&langs_count=6)
 
 </div>
 
 ---
 
-## 📚 Always Learning
+## 📬 Let's connect
 
-- 🚀 Advanced algorithm optimization & complexity analysis
-- 🏗️ Large-scale machine learning systems & MLOps
-- 📈 Data engineering & pipeline optimization
-- 🌐 Open source contribution & community involvement
+Always happy to connect with other learners, collaborate on beginner-friendly projects, or just talk about Python and ML.
 
----
-
-## 💼 Let's Collaborate!
-
-I'm always interested in:
-- 🤝 **Collaborating** on impactful Python projects
-- 🎯 **Contributing** to meaningful open source initiatives  
-- 💡 **Solving** challenging problems together
-- 📚 **Sharing** knowledge and experiences with the community
-
-**→ [Explore My Repositories](https://github.com/CoderAalok?tab=repositories)**
-
----
-
-<div align="center">
-
-### *"Code with purpose. Learn with passion. Build with impact."* ✨
-
-</div>
+**[LinkedIn](https://linkedin.com/in/YOUR_HANDLE)**. **[GitHub](https://github.com/CoderAalok)**. **[LeetCode](https://leetcode.com/u/yadavaalok/)
