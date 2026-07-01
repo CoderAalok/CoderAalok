@@ -1,6 +1,6 @@
 # Hi there!, I'm Aalok 👋
 
-I'm learning Python, algorithms, and machine learning — building projects to understand things deeply, not just follow tutorials.
+I'm learning Python, algorithms, and AI/ML, building projects to understand things deeply, not just follow tutorials instead read textbooks.
 
 ---
 
