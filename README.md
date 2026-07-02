@@ -39,7 +39,7 @@ Env        →  Jupyter Notebook, Git, VS Code
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoderAalok&show_icons=true&theme=dark&hide_border=true&count_private=true&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoderAalok&show_icons=true&theme=dark&hide_border=true&rank_icon=github)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderAalok&layout=compact&theme=dark&hide_border=true&langs_count=6)
 
@@ -51,4 +51,4 @@ Env        →  Jupyter Notebook, Git, VS Code
 
 Always happy to connect with other learners, collaborate on beginner-friendly projects, or just talk about Python and ML.
 
-**[LinkedIn](https://linkedin.com/in/YOUR_HANDLE)**.  **[GitHub](https://github.com/CoderAalok)**.  **[LeetCode](https://leetcode.com/u/yadavaalok/)**
+**[LinkedIn](https://linkedin.com/in/yadavaalok)** • **[GitHub](https://github.com/CoderAalok)** • **[LeetCode](https://leetcode.com/u/yadavaalok/)**
