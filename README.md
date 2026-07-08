@@ -17,10 +17,10 @@ I'm learning Python, algorithms, and AI/ML, building projects to understand thin
 
 | Repo | What it is |
 |------|------------|
+| [**Code_In_Python**](https://github.com/CoderAalok/Code_In_Python) | General Python practice — utilities, patterns, and exercises. |
+| [**Python_Libraries**](https://github.com/CoderAalok/Python_Libraries) | Notebooks exploring Pandas, NumPy, Matplotlib, and Seaborn as I learn them. |
 | [**Problem_Solving_In_Python**](https://github.com/CoderAalok/Problem_Solving_In_Python) | My solutions to algorithmic problems — organized by pattern, with explanations. |
 | [**TensorTonic-Solutions**](https://github.com/CoderAalok/TensorTonic-Solutions) | Experiments with deep learning: CNNs, RNNs, and applied ML models. |
-| [**Python_Libraries**](https://github.com/CoderAalok/Python_Libraries) | Notebooks exploring Pandas, NumPy, Matplotlib, and Seaborn as I learn them. |
-| [**Code_In_Python**](https://github.com/CoderAalok/Code_In_Python) | General Python practice — utilities, patterns, and exercises. |
 
 ---
 
@@ -51,4 +51,4 @@ Env        →  Jupyter Notebook, Git, VS Code
 
 Always happy to connect with other learners, collaborate on beginner-friendly projects, or just talk about Python and ML.
 
-**[LinkedIn](https://linkedin.com/in/yadavaalok)** • **[GitHub](https://github.com/CoderAalok)** • **[LeetCode](https://leetcode.com/u/yadavaalok/)**
+• **[LinkedIn](https://linkedin.com/in/yadavaalok)** • **[LeetCode](https://leetcode.com/u/yadavaalok/)**
